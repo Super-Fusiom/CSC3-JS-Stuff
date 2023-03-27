@@ -1,3 +1,5 @@
+// This is not part of the 4 tasks rather part of the slideshow task
+
 class Car {
   constructor(tank, kpl) {
     this.tank = tank; // The variables used

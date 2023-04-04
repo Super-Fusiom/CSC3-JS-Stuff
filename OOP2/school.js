@@ -1,3 +1,5 @@
+// npm install is required
+
 let readline = require("readline-sync");
 
 class School {

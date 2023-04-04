@@ -22,8 +22,8 @@ beeMovie = new Movie(
   1.51,
   "49%",
   "Family/Adventure",
-  150000000,
-  2935000000
+  150_000_000,
+  2_935_000_000
 );
 
 console.log(beeMovie.netWorth);

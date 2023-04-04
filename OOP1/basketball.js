@@ -12,4 +12,12 @@ class BasketballPlayer {
 
 james = new BasketballPlayer("James", 5, 7);
 
-console.log(james.averageGoals);
+e = new BasketballPlayer("Edo", 3, 5);
+
+players = [];
+
+players.push(james, e);
+
+players.forEach((e) => {
+  console.log(e.averageGoals);
+});
